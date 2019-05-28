@@ -2,6 +2,20 @@
 
 wizGrade School App is now Open Source - 100% free + source code. wizGrade is a complete, portable, flexible & perfect solution for school management & administration with more than 50+ features wizGrade formally known as SDOSMS is developed with HTML, CSS, JQUERY, JavaScript, AJAX, PDO, PHP and MySQL
 
+# INSTALLATION
+PHP 5.6, MYSQL
+   i: Download wizGrade School Manager
+
+	ii: Unzip the files in your root domain or local host created folder.
+
+	iii. Enter your root address in the browser
+
+	iv: It will automatically prompt you for installation. 
+
+	v:  Please kindly follow installation step.
+
+	vi: After successful installation, login as admin to customize wizGrade
+  
 # NOTICE FROM thefaloye:
 This project was built by Igweze Ebele Mark. Now it is an open source project, hence, my reason to have access to it.
 
