@@ -4,7 +4,8 @@ wizGrade School App is now Open Source - 100% free + source code. wizGrade is a 
 
 # INSTALLATION
 PHP 5.6, MYSQL
-   i: Download wizGrade School Manager
+
+         i: Download wizGrade School Manager
 
 	ii: Unzip the files in your root domain or local host created folder.
 
